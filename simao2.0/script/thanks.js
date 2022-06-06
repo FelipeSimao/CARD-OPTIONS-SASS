@@ -1,1 +1,0 @@
-document.querySelector('#result-text').innerHTML = `You selected ${sessionStorage.getItem('selectOption')} out of 5`
